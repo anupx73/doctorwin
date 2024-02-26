@@ -15,4 +15,4 @@ A small, fun project written in C and C++ during college days while playing with
 - Folder lock using NTFS locking mechanism
 
 ## Archiving
-It was originally written in 2007 and pushed to github for archieving purposes in mid-2017 from an old hard disk. In early 2024, it feels quite good to look back at this code while writing this readme file, while at the same time being a bit nostalgic about my first laptop and getting started with coding. This was my first ever hobby project, which I built passionately.
+It was originally written in 2007 and pushed to github for archieving purposes in mid 2017 from an old hard disk. In early 2024, it feels quite nostalgic to look back at this code while writing this readme file. This was my first hobby project, which I built passionately.
